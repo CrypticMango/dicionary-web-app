@@ -5,7 +5,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src="" className="App-logo" alt="" />
-      Hello
+      Hello <br />
+      <a href="#" className="btn btn-primary">This is a button :D</a>
       </header>
     </div>
   );
