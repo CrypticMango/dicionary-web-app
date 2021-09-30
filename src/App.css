@@ -1,1 +1,21 @@
+.App {
+    background-color: #212529;
+    padding: 100px;
+}
+
+.App h1 {
+    text-align: center;
+    color: #00ffc8;
+    background-color: #3B3E42;
+    border: #3B3E42;
+    border-radius: 20px;
+}
+
+.App footer{
+    padding: 20px;
+    color: #00ffc8;
+    background-color: #3B3E42;
+    border: #3B3E42;
+    border-radius: 20px;
+}
 
