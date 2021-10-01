@@ -12,11 +12,12 @@ let [keyword, setKeyword] = useState("");
     function search(event) {
         event.preventDefault();
 
+        // documentation: https://dictionaryapi.dev/
         let apiUrl = `https://api.dictionaryapi.dev/api/v2/entries/en/${keyword}`
         axios.get(apiUrl).then(handleResponse);
     }
 
-    //https://api.dictionaryapi.dev/api/v2/entries/en/cat
+   
 
     function handleKeywordChange(event) {
         setKeyword(event.target.value);
