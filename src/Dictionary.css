@@ -12,8 +12,9 @@
     background-color: #212529;
     color: #00FFC8;
     border: #3B3E42;
-    border-radius: 25px;
-    font-size: 22px;
+    border-radius: 10px;
+    border-style: solid;
+    font-size: 20px;
     box-sizing: none;
 }
 
