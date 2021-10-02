@@ -1,5 +1,8 @@
+body {
+    background: #212529;
+}
+
 .App {
-    background-color: #212529;
     padding: 80px 0px;
     max-width: 0 auto;
 }

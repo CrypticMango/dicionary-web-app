@@ -27,9 +27,12 @@ let [results, setResults] =useState(null);
         setKeyword(event.target.value);
     }
     return (
-        <div className = "Dictionary"> <form onSubmit={search}>
-            <input type="search" placeholder="      Search for a word.." onChange={handleKeywordChange}/>
-        </form>
+        <div className = "Dictionary"> 
+        
+            <form onSubmit={search}>
+                <input type="search" placeholder="      Search for a word.." onChange={handleKeywordChange}/>
+            </form>
+        
         <Results results={results}/>
         </div>
 )
