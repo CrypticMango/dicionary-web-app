@@ -4,7 +4,9 @@ export default function Phonetics(props) {
     console.log(props.phonetic);
     return (
         <div className="Phonetic">
-            hello from Phonetics 
+            <a href={props.phonetic.audio} target="_blank" rel="noreferrer"> sound</a>
+            <br />
+            {props.phonetic.text}
         </div>
     )
 }
