@@ -1,6 +1,7 @@
 .App {
     background-color: #212529;
-    padding: 100px;
+    padding: 80px 0px;
+    max-width: 0 auto;
 }
 
 .App h1 {
