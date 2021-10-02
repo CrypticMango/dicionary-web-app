@@ -37,3 +37,11 @@
     position: relative;
     right: 100px;
 } }
+
+@media (min-width: 200px) and (max-width: 299px) 
+{.Dictionary input {
+    font-size: 20px;
+    position: relative;
+    right: 120px;
+} }
+
