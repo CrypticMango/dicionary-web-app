@@ -17,9 +17,23 @@
     box-sizing: none;
 }
 
-@media (min-width: 300px) and (max-width: 500px) 
+@media (min-width: 400px) and (max-width: 500px) 
 {.Dictionary input {
     font-size: 20px;
     position: relative;
     right: 60px;
+} }
+
+@media (min-width: 321px) and (max-width: 399px) 
+{.Dictionary input {
+    font-size: 20px;
+    position: relative;
+    right: 80px;
+} }
+
+@media (min-width: 300px) and (max-width: 320px) 
+{.Dictionary input {
+    font-size: 20px;
+    position: relative;
+    right: 100px;
 } }
