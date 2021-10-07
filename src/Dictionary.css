@@ -19,11 +19,15 @@
 .Dictionary input {
     background-color: #212529;
     color: #00FFC8;
-    border: #3B3E42;
+    border: #98e6d5;
     border-radius: 10px;
     border-style: solid;
-    font-size: 20px;
     box-sizing: none;
+    padding: 10px 10px;
+}
+
+.Dictionary .search-field{
+    width: 75%;
 }
 
 

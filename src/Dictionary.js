@@ -30,7 +30,7 @@ let [results, setResults] =useState(null);
         <div className = "Dictionary"> 
         
             <form onSubmit={search}>
-                <input type="search" placeholder="      Search for a word.." onChange={handleKeywordChange}/>
+                <input type="search" placeholder="      Search for a word.." onChange={handleKeywordChange} className="search-field"/>
                 <input type="submit" value="🔎" />
             </form>
         
