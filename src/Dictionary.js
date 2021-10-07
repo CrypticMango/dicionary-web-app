@@ -31,6 +31,7 @@ let [results, setResults] =useState(null);
         
             <form onSubmit={search}>
                 <input type="search" placeholder="      Search for a word.." onChange={handleKeywordChange}/>
+                <input type="submit" value="🔎" />
             </form>
         
         <Results results={results}/>

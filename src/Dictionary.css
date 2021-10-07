@@ -1,5 +1,5 @@
 .Dictionary section {
-    background: black;
+    background: #3B3E42;
     padding: 30px;
     border-radius: 16px;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
@@ -8,7 +8,7 @@
 
 .Dictionary form {
     padding: 40px 10px;
-    margin: 20px;
+    margin: 20px 0;
     border: #3B3E42;
     border-radius: 20px;
     background-color: #3B3E42;
