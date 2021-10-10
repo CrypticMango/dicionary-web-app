@@ -10,17 +10,19 @@ body {
 .App h1 {
     text-align: center;
     color: #ffffff;
-    background-color: #3B3E42;
-    border: #3B3E42;
-    border-radius: 20px;
+    background-color: #272B2F;
+    box-shadow: 5px 3px 12px rgba(0, 0, 0, 0.2);
+    border: #272B2F;
+    border-radius: 12px;
     padding: 20px 5px;
 }
 
 .App footer{
     padding: 20px 5px;
     color: #ffffff;
-    background-color: #3B3E42;
-    border: #3B3E42;
-    border-radius: 20px;
+    background-color: #272B2F;
+    border: #272B2F;
+    border-radius: 12px;
+    box-shadow: 5px 3px 12px rgba(0, 0, 0, 0.2);
 }
 

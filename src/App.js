@@ -11,7 +11,7 @@ function App() {
       <main>
         <Dictionary />
       </main>
-      <footer className="text-center"> Coded by me 😀 open-source code on <a href="https://github.com/CrypticMango/dicionary-web-app" target="_blank" rel="noreferrer">GitHub</a> hosted on <a href="https://vigilant-poitras-24cb00.netlify.app/" target="_blank" rel="noreferrer">Netlify</a> </footer>
+      <footer className="text-center"> Coded by Lisa Allen open-source code on <a href="https://github.com/CrypticMango/dicionary-web-app" target="_blank" rel="noreferrer">GitHub</a> hosted on <a href="https://vigilant-poitras-24cb00.netlify.app/" target="_blank" rel="noreferrer">Netlify</a> </footer>
       </div>
     </div>
   );
