@@ -4,7 +4,15 @@
     background-color: #03DAC5;
     border-color: #03DAC5;
     border-radius: 7px;
-    color: black;
+    color: #272B2F;
     margin: 7px;
     text-decoration: none;
+}
+.Phonetic a:hover {
+    background-color: #272B2F;
+    color: #03DAC5;
+}
+
+.Phonetic p {
+    color: white;
 }

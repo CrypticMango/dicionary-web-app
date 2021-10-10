@@ -1,3 +1,8 @@
 .Results {
   color: #03DAC5;
 }
+
+.Results h2 {
+  font-size: 45px;
+  text-transform: capitalize;
+}
