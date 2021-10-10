@@ -14,7 +14,6 @@ let [photos, setPhotos] = useState(null);
     }
 
     function handlePexelsResponse(response) {
-        console.log(response);
         setPhotos(response.data.photos);
     }
 
