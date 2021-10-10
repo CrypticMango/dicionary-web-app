@@ -1,0 +1,10 @@
+.Phonetic a {
+    padding: 7px;
+    border: solid;
+    background-color: #03DAC5;
+    border-color: #03DAC5;
+    border-radius: 7px;
+    color: black;
+    margin: 7px;
+    text-decoration: none;
+}

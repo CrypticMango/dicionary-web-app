@@ -5,10 +5,13 @@ body {
 .App {
     padding: 80px 0px;
     max-width: 0 auto;
+    font-family: 'Fira Code', monospace;
 }
 
 .App h1 {
     text-align: center;
+    font-family: 'Akronim', cursive;
+    font-size: 60px;
     color: #ffffff;
     background-color: #272B2F;
     box-shadow: 5px 3px 12px rgba(0, 0, 0, 0.2);
@@ -24,5 +27,10 @@ body {
     border: #272B2F;
     border-radius: 12px;
     box-shadow: 5px 3px 12px rgba(0, 0, 0, 0.2);
+}
+
+.App a {
+    color: #03DAC5;
+    text-decoration: none;
 }
 
